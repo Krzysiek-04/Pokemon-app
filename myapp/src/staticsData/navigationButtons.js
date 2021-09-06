@@ -1,9 +1,9 @@
-import AccessibilityNewIcon from "@material-ui/icons/AccessibilityNew"; // O mnie
-import TimerIcon from "@material-ui/icons/Timer"; // Stoper
-import ThumbUpIcon from "@material-ui/icons/ThumbUp"; // Licznik
-import PeopleAltIcon from "@material-ui/icons/PeopleAlt"; // Lista postaci
-import PersonIcon from "@material-ui/icons/Person"; // Logowanie
-import PersonAddIcon from "@material-ui/icons/PersonAdd"; // Rejestracja
+import AccessibilityNewIcon from "@material-ui/icons/AccessibilityNew";
+import TimerIcon from "@material-ui/icons/Timer";
+import ThumbUpIcon from "@material-ui/icons/ThumbUp";
+import PeopleAltIcon from "@material-ui/icons/PeopleAlt";
+import PersonIcon from "@material-ui/icons/Person";
+import PersonAddIcon from "@material-ui/icons/PersonAdd";
 
 const navigationButtons = [
   {
