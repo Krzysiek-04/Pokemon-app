@@ -1,8 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 
-
-
 const Card = styled.div`
   beckground: #c8b590;
   cursor: pointer;
@@ -57,4 +55,4 @@ const CharacterCard = ({ name, imge, species, index, status }) => {
   );
 };
 
-export default CharacterCards;
+export default CharacterList;
