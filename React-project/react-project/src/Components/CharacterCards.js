@@ -55,4 +55,4 @@ const CharacterCard = ({ name, imge, species, index, status }) => {
   );
 };
 
-export default CharacterList;
+export default CharacterCards;
