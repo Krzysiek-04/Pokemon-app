@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Card = styled.div`
-  beckground: #c8b590;
+  beckground: #90c890;
   cursor: pointer;
   border-redius: 8px;
   box-sizing: border-box;

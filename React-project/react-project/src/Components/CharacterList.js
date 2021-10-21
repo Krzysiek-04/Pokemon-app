@@ -1,5 +1,5 @@
 import React from "react";
-import CharacterCards from "./CharacterCards";
+import CharacterCards from "./CharacterCard";
 import styled from "styled-components";
 
 const Wrapper = styled.div`
